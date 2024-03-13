@@ -4,4 +4,5 @@ Aula 02
 Mensagem mesclada dos branches main e fB
 
 Mensagem de fD
+Mensagem de fE
 Mais uma mensagem do main

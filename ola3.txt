@@ -3,5 +3,5 @@ Aula 02
 
 Mensagem mesclada dos branches main e fB
 
-Mensagem de fD
+Mensagem de fD, corrigido no main
 Mais uma mensagem do main
